@@ -6,7 +6,7 @@
 [![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Ready-brightgreen.svg)](https://www.tampermonkey.net/)
 [![GreasyFork](https://img.shields.io/badge/Install-Greasy%20Fork-red)](https://greasyfork.org/zh-CN/scripts/563029-lmarena-manager)
 
-告别混乱的模型列表！LMArena Manager 助你轻松筛选、分类和管理上百个 AI 模型。支持 **Chat**、**Code**、**Image** 等多种模式的独立管理与排序。
+> **告别混乱的模型列表！** LMArena Manager 是一个为 [LMArena](https://lmarena.ai) 量身定制的高级管理工具，助你轻松筛选、分类和管理上百个 AI 模型。支持 **Chat**、**Code**、**Image** 等多种模式的独立管理与排序。
 
 # ✨ 核心特性
 
@@ -62,7 +62,6 @@
 6. **双击**模型卡片编辑详细信息
 7. 点击 **✓ 应用** 使更改生效
 8. 其余功能欢迎自行探索！
-
 
 ## ⌨️ 快捷键
 
@@ -168,6 +167,5 @@ Kwai
 - [LMArena](https://lmarena.ai) - 模型评测平台
 - [Tampermonkey](https://www.tampermonkey.net/) - 用户脚本管理器
 
----
 
 **如果这个项目对你有帮助，欢迎 ⭐ Star！**
