@@ -6,11 +6,11 @@
 [![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Ready-brightgreen.svg)](https://www.tampermonkey.net/)
 [![GreasyFork](https://img.shields.io/badge/Install-Greasy%20Fork-red)](https://greasyfork.org/zh-CN/scripts/563029-lmarena-manager)
 
-> **告别混乱的模型列表！** LMArena Manager 是一个为 [LMArena](https://lmarena.ai) 量身定制的高级管理工具，助你轻松筛选、分类和管理上百个 AI 模型。支持 **Chat**、**Code**、**Image** 等多种模式的独立管理与排序。
+> **告别混乱的模型列表！** LMArena Manager 是一个为 [LMArena](https://lmarena.ai) 量身定制的高级管理工具，助你轻松筛选、分类和管理上百个 AI 模型。支持 **Text**、**Code**、**Image** 等多种模式的独立管理与排序。
 
 # ✨ 核心特性
 
-- **🚀 多模式归属系统 (v4.4 新增)**：一个模型（如 GPT-4o）可以同时属于 Chat 和 Code 面板，支持在不同场景下独立管理显隐和排序。
+- **🚀 多模式归属系统 (v4.4 新增)**：一个模型（如 GPT-4o）可以同时属于 Text 和 Code 面板，支持在不同场景下独立管理显隐和排序。
 - **🎯 "所见即所得" 精准扫描**：严格基于页面上下文识别模型类型，不再依赖不可靠的名字猜测，杜绝分类错误。
 - **🏢 智能厂商识别**：内置规则自动识别 **60+ 家**主流 AI 公司（OpenAI, Google, Anthropic, DeepSeek 等）。
 - **📂 智能折叠**：自动收纳非核心公司，保持列表清爽；在模型较少的模式下自动展开。
@@ -29,7 +29,7 @@
 
 | 模式 | 图标 | 说明 |
 |------|------|------|
-| Chat | 💬 | 标准文本对话 |
+| Text | 💬 | 标准文本对话 |
 | Search | 🔍 | 联网搜索增强 |
 | Image | 🎨 | 图像生成模型 |
 | Code | 💻 |代码编程专用 |
@@ -70,23 +70,28 @@
 | `Ctrl+Shift+M` | 打开/关闭管理面板 |
 | `Esc` | 关闭当前弹窗 |
 
-## 🏢 支持的公司
+## 🏢 支持的组织
 
 <details>
 <summary>点击展开完整列表</summary>
-（重复公司只展示一次）
-  
-### LLM
-Google, OpenAI, Anthropic, xAI, DeepSeek, Qwen, MoonshotAI, Zhipu, Baidu, MistralAI, LongCat, Xiaomi, Tencent, Minimax, Amazon, PrimeIntellect, IBM, Cohere, AntGroup, Stepfun, Meta, Nvidia, AllenAI, Inception
 
-### Search
-Perplexity, Diffbot
+### 📝 Text（原Chat）
+**主要组织**：Google, Anthropic, xAI, OpenAI, Baidu, Z.ai, Alibaba, Moonshot, DeepSeek, Mistral, MiniMax  
+**更多组织**：Meituan, Amazon, Xiaomi, Tencent, Microsoft AI, Prime Intellect, Cohere, Nvidia, Ant Group, StepFun, Meta, Allen AI, Inception AI, IBM, 01 AI, NexusFlow
 
-### Image
-Bytedance, ShengShu, MicrosoftAI, Flux, Recraft, Luma, Ideogram, Reve, LeonardoAI
+### 🔍 Search
+**全部组织**：Google, OpenAI, xAI, Anthropic, Perplexity, Diffbot
 
-### Code
-Kwai
+### 🎨 Image
+**主要组织**：OpenAI, Google, Tencent, Bytedance, Alibaba, Black Forest Labs, Z.ai  
+**更多组织**：Shengshu, Pruna, Microsoft AI, Ideogram, Luma AI, Recraft, Leonardo AI, Reve
+
+### 💻 Code
+**主要组织**：Anthropic, OpenAI, Google, xAI, DeepSeek, Z.ai, Moonshot, Alibaba, MiniMax  
+**更多组织**：Xiaomi, KwaiKAT, Mistral
+
+### 🎬 Video
+*暂无专属组织（预留分类）*
 
 </details>
 
