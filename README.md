@@ -48,7 +48,7 @@
 **方式二：手动安装**
 
 1. 点击浏览器扩展图标 → 添加新脚本
-2. 复制 [`lmarena-manager.user.js`](./lmarena-manager.user.js) 内容
+2. 复制 [`LMArena Manager.user.js`](./LMArena%20Manager.user.js) 内容
 3. 保存并启用
 
 ## 🚀 使用方法
